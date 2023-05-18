@@ -1,0 +1,72 @@
+body {
+    height: 100vh;}
+
+
+.container {
+    text-align: center;
+    background-color: #6b3d9c;
+    height: 691px;
+    width: 872px;
+    color: white;
+    left: 224px;
+    top: 264px;
+    border-radius: 44px;
+    position: relative;
+}
+
+
+
+.title {
+    padding-top: 32px;
+    font-weight: bold;
+}
+
+#icon {
+padding-right: 10px;
+}
+
+.text {
+    line-height: 25px;
+    font-size: 10px;
+    font-weight: 100;
+}
+
+.showme {
+    padding: 8px 17px;
+    font-weight: bold;
+    color: #532a7f;
+    border-radius: 11px;
+    
+
+}
+table{
+    position: relative;
+    top: -309px;
+    left: 473px;
+    
+}
+
+
+.SongsName  {
+    color: white;
+    margin-left: -50px;
+    background-color: #6b3d9c;
+    border: 2px solid white;
+    height: 394px;
+    width: 467px;
+    top: -141px;
+ 
+}
+
+
+span{
+    width: 40px;
+    height: 40px;
+    background-color: #ab8ad0;
+    padding: 5PX;
+    margin-right: 5PX;
+  
+}
+.active{
+    display: none;
+}
